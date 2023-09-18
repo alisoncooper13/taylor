@@ -1,0 +1,228 @@
+body {
+    margin: 0;
+  }
+  
+  body .index1st .box {
+    background-color: #4B6087;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+  }
+  
+  body .index1st .box .navv {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  body .index1st .box .navv a {
+    font-size: 30px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  body .index2ed .box {
+    background-color: #4B6087;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+  }
+  
+  body .index2ed .box .header {
+    width: 1200px;
+    height: 200px;
+    background-color: #bf736d;
+  }
+  
+  body .index2ed .box .header .navv {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  body .index2ed .box .header .navv a {
+    font-size: 30px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  body .index2ed .box .content {
+    padding: 0 100px;
+    height: 600px;
+  }
+  
+  body .index2ed .box .content .cc {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  body .index2ed .box .content .cc .wen {
+    width: 500px;
+    font-size: 20px;
+  }
+  
+  body .index2ed .box .footer {
+    width: 1200px;
+    height: 100px;
+    background-color: #bf736d;
+  }
+  
+  body .index3ed .box {
+    background-color: #4B6087;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+    display: flex;
+  }
+  
+  body .index3ed .box .left {
+    width: 350px;
+    height: 900px;
+    background-color: #bf736d;
+  }
+  
+  body .index3ed .box .left .navv {
+    margin-left: 30px;
+    padding-top: 20px;
+  }
+  
+  body .index3ed .box .left .navv a {
+    text-align: center;
+    margin-top: 30px;
+    display: block;
+    font-size: 30px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  body .index4th .box {
+    background-color: #4B6087;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+  }
+  
+  body .index4th .box .header {
+    width: 1200px;
+    height: 200px;
+    background-color: #bf736d;
+  }
+  
+  body .index4th .box .header .navv {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  body .index4th .box .header .navv a {
+    font-size: 30px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  body .index4th .box .content {
+    height: 600px;
+    display: flex;
+  }
+  
+  body .index4th .box .content .left {
+    width: 350px;
+    height: 600px;
+    background-color: #e2cfc0;
+  }
+  
+  body .index4th .box .content .right {
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  
+  body .index4th .box .content .right p {
+    font-size: 20px;
+    width: 700px;
+  }
+  
+  body .index4th .box .footer {
+    width: 1200px;
+    height: 100px;
+    background-color: #bf736d;
+  }
+  
+  body .index5th .box {
+    background-color: #e2cfc0;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+  }
+  
+  body .index5th .box .header {
+    width: 1200px;
+    height: 200px;
+    background-color: #bf736d;
+  }
+  
+  body .index5th .box .header .navv {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  body .index5th .box .header .navv a {
+    font-size: 30px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  body .index5th .box .nav {
+    width: 1200px;
+    height: 100px;
+    background-color: #a7645f;
+  }
+  
+  body .index5th .box .nav .title {
+    margin-left: 100px;
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  body .index5th .box .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+    height: 500px;
+  }
+  
+  body .index5th .box .content .left {
+    width: 350px;
+    height: 500px;
+    background-color: #4B6087;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  body .index5th .box .content .right {
+    width: 350px;
+    height: 500px;
+    background-color: #4B6087;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  body .index5th .box .footer {
+    width: 1200px;
+    height: 100px;
+    background-color: #bf736d;
+  }
+  
+  body .index5th .box .footer .wen {
+    padding: 20px 50px 0;
+    font-size: 20px;
+  }
